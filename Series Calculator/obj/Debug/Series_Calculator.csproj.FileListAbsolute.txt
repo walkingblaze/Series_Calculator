@@ -1,0 +1,11 @@
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series Calculator.dll
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series Calculator.pdb
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series_Calculator.BusinessLogic.dll
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series_Calculator.Entity.dll
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series_Calculator.HelperLibrary.dll
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series_Calculator.BusinessLogic.pdb
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series_Calculator.Entity.pdb
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\bin\Series_Calculator.HelperLibrary.pdb
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\obj\Debug\Series_Calculator.csprojResolveAssemblyReference.cache
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\obj\Debug\Series Calculator.dll
+c:\users\ritz\documents\visual studio 2012\Projects\Series Calculator\Series Calculator\obj\Debug\Series Calculator.pdb
